@@ -1,0 +1,47 @@
+h1 {
+    text-align: center;
+    background-color: red;
+    padding-top: 20px;
+    padding-bottom: 20px
+    
+    
+
+}
+.gamer {
+    text-align: center;
+    color: white;
+    
+}
+a {
+    text-align: center;
+    background-color: red;
+    border-radius: 20px;
+    color: white;
+    font-size: 20px;
+    display: block;
+    border-radius: 20px 0 20px 0;
+    
+}
+
+button {
+    background-color: red;
+    border-radius: 20px;
+    border-color: red;
+    
+}
+.mishka {
+    text-align: center;
+}
+.kover {
+    text-align: center;   
+padding-right: 20px; 
+}
+body {
+    background-color: #333;
+}
+h1 {
+    color: white;
+}
+h2 {
+    color: white;
+}
